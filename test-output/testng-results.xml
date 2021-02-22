@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Login successfully executed....]]>
+    </line>
+    <line>
+      <![CDATA[<a target="blank" href="D:\screen.png">ScreenFirst</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="blank" href="D:\screen.png"><img src="D:\screen.png" height=200 width=200></img></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="352" started-at="2021-02-22T11:07:03 IST" finished-at="2021-02-22T11:07:03 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="352" started-at="2021-02-22T11:07:03 IST" finished-at="2021-02-22T11:07:03 IST">
+      <class name="com.w2a.testcases.BankManagerLogintest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.w2a.testcases.BankManagerLogintest@5d534f5d]" name="setUp" is-config="true" duration-ms="10110" started-at="2021-02-22T11:06:53 IST" finished-at="2021-02-22T11:07:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginAsBankManager()[pri:0, instance:com.w2a.testcases.BankManagerLogintest@5d534f5d]" name="loginAsBankManager" duration-ms="256" started-at="2021-02-22T11:07:03 IST" finished-at="2021-02-22T11:07:03 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Login successfully executed....]]>
+            </line>
+            <line>
+              <![CDATA[<a target="blank" href="D:\screen.png">ScreenFirst</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="blank" href="D:\screen.png"><img src="D:\screen.png" height=200 width=200></img></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginAsBankManager -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.w2a.testcases.BankManagerLogintest@5d534f5d]" name="teardown" is-config="true" duration-ms="935" started-at="2021-02-22T11:07:03 IST" finished-at="2021-02-22T11:07:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.w2a.testcases.BankManagerLogintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
